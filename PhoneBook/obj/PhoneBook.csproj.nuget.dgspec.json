@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "g:\\c#projects\\Unit-Testing\\PhoneBook\\PhoneBook.csproj": {}
+    "G:\\c#projects\\Unit-Testing\\PhoneBook\\PhoneBook.csproj": {}
   },
   "projects": {
-    "g:\\c#projects\\Unit-Testing\\PhoneBook\\PhoneBook.csproj": {
+    "G:\\c#projects\\Unit-Testing\\PhoneBook\\PhoneBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "g:\\c#projects\\Unit-Testing\\PhoneBook\\PhoneBook.csproj",
+        "projectUniqueName": "G:\\c#projects\\Unit-Testing\\PhoneBook\\PhoneBook.csproj",
         "projectName": "PhoneBook",
-        "projectPath": "g:\\c#projects\\Unit-Testing\\PhoneBook\\PhoneBook.csproj",
+        "projectPath": "G:\\c#projects\\Unit-Testing\\PhoneBook\\PhoneBook.csproj",
         "packagesPath": "C:\\Users\\petar\\.nuget\\packages\\",
-        "outputPath": "g:\\c#projects\\Unit-Testing\\PhoneBook\\obj\\",
+        "outputPath": "G:\\c#projects\\Unit-Testing\\PhoneBook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\petar\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,13 @@
 using PhoneBook;
-namespace PhoneBook.Tests;
+namespace PhoneBookTests;
 
 [TestClass]
 public class PhoneBookTest
 {
-    private readonly PhoneBookValidation _validation;
-    public PhoneBookTest(PhoneBookValidation validation)
-    {
-        _validation = validation;
-    }
     [TestMethod]
+    [DataRow("+15554875551")]
     public void ValidateNumber_IsValidNumber_ReturnTrue(string phoneNumber)
     {
-        Validation
+        Assert.IsTrue(PhoneBookValidation.ValidateNumber(phoneNumber));
     }
 }
